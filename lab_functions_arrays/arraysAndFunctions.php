@@ -31,4 +31,3 @@
             echo "$name's score is $score graded as " . letterGrade($score) . ".\n";
     }
 ?>
-
